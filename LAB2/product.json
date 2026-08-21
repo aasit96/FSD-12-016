@@ -1,0 +1,33 @@
+[
+  {
+    "id": 101,
+    "name": "I phone",
+    "price": 140000,
+    "quantity": 4,
+    "qty": null
+  },
+  {
+    "id": 102,
+    "name": "Samsung Galaxy S23 pro",
+    "price": 130000,
+    "quantity": 10
+  },
+  {
+    "id": 103,
+    "name": "mac book",
+    "price": 70000,
+    "quantity": 4
+  },
+  {
+    "id": 104,
+    "name": "redmi note 15 pro",
+    "price": 35000,
+    "quantity": 4
+  },
+  {
+    "id": 123,
+    "name": "iqeoo neo 11",
+    "price": 50000,
+    "quantity": 2
+  }
+]
